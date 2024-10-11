@@ -6,7 +6,7 @@ add_numbers() {
 }
 #read -p "Please Enter the first number: " number1
 #read -p "Please Enter the second number: " number2
-echo "Hello "
+echo "New code will be reflected"
 number1=$1
 number2=$2
 result=$(add_numbers "$number1" "$number2")
